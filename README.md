@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,50:FECFEF,100:FF6FB5&height=220&section=header&text=Hey,%20%20blackRose-36%20💗&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I'm%20ZohA%20|%20turning%20ideas%20into%20solutons&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8E,50:FECFEF,100:FF6FB5&height=220&section=header&text=%20%20blackRose-36%20💗&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I'm%20ZohA%20|%20Turning%20ideas%20into%20solutons&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Learn.+Build.+Repeat.+%F0%9F%8D%AC;BSCS+Student+%F0%9F%8E%93;Candy-coated+coder+with+a+pink+aesthetic;Currently+leveling+up+in+Web+Dev+%26+DSA;%22Consistency+beats+perfection%22&font=Fira%20Code&center=true&width=650&height=50&color=FF6FB5&vCenter=true&size=22"/>
 
