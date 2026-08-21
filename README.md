@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF2D95&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Zoha+%F0%9F%91%8B;C%2B%2B+Developer+%E2%80%A2+Python+Learner;Building+the+Web%2C+One+Bug+at+a+Time;Consistency+beats+perfection." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Zoha%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Zoha+%F0%9F%91%8B;C%2B%2B+Developer+%E2%80%A2+Python+Learner;Building+the+Web%2C+One+Bug+at+a+Time;Consistency+beats+perfection." alt="Typing SVG" />
 
 <sub>Static fallback: <code>C++ Developer • Python Learner • Future Web Developer</code></sub>
 
@@ -10,7 +12,7 @@
 
 <br>
 
-![Status](https://img.shields.io/badge/status-focusing-FF2D95?style=for-the-badge&labelColor=0D1117)
+![Status](https://img.shields.io/badge/status-focusing-9D4EDD?style=for-the-badge&labelColor=0D1117)
 ![BSCS](https://img.shields.io/badge/BSCS-University%20of%20Layyah-FF2D95?style=for-the-badge&labelColor=0D1117)
 
 </div>
@@ -33,7 +35,7 @@ candy 🍬 + curiosity
 
 <br>
 
-## 🖤 About Me
+## 💜 About Me
 
 I started with **C** and **C++**, and I stayed long enough to actually build with them — CLI tools, data managers, small logic experiments. Now I'm branching into **Python**, **HTML/CSS**, and **DSA**, all aimed at one target: becoming a solid **Web Developer**.
 
@@ -47,23 +49,23 @@ I'm not a senior anything — I'm a BSCS student who ships small, working things
 
 **Languages**
 <br>
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FF2D95)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=FF2D95)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=9D4EDD)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=C77DFF)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF2D95)
 
 **Core Concepts**
 <br>
-![OOP](https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2D95)
+![OOP](https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&labelColor=0D1117&color=9D4EDD)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&color=FF2D95)
 
 **Web — currently learning**
 <br>
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF2D95)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=C77DFF)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FF2D95)
 
 **Tools**
 <br>
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF2D95)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=9D4EDD)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF2D95)
 
 </div>
@@ -93,10 +95,10 @@ Every arrow is a phase I've either finished or am actively working through — n
 
 <div align="center">
 
-[![Task-Management-System](https://img.shields.io/badge/→%20View%20Repo-Task--Management--System-FF2D95?style=flat-square&labelColor=0D1117)](https://github.com/blackrose-36/Task-Management-System)
-[![StudentInfo-Manager](https://img.shields.io/badge/→%20View%20Repo-StudentInfo--Manager-FF2D95?style=flat-square&labelColor=0D1117)](https://github.com/blackrose-36/StudentInfo-Manager-)
+[![Task-Management-System](https://img.shields.io/badge/→%20View%20Repo-Task--Management--System-9D4EDD?style=flat-square&labelColor=0D1117)](https://github.com/blackrose-36/Task-Management-System)
+[![StudentInfo-Manager](https://img.shields.io/badge/→%20View%20Repo-StudentInfo--Manager-C77DFF?style=flat-square&labelColor=0D1117)](https://github.com/blackrose-36/StudentInfo-Manager-)
 [![Expense-Tracker](https://img.shields.io/badge/→%20View%20Repo-Expense--Tracker-FF2D95?style=flat-square&labelColor=0D1117)](https://github.com/blackrose-36/Expense-Tracker)
-[![Python-to-do-list](https://img.shields.io/badge/→%20View%20Repo-Python--to--do--list-FF2D95?style=flat-square&labelColor=0D1117)](https://github.com/blackrose-36/Python-to-do-list)
+[![Python-to-do-list](https://img.shields.io/badge/→%20View%20Repo-Python--to--do--list-9D4EDD?style=flat-square&labelColor=0D1117)](https://github.com/blackrose-36/Python-to-do-list)
 [![Heart](https://img.shields.io/badge/→%20View%20Repo-Heart-FF2D95?style=flat-square&labelColor=0D1117)](https://github.com/blackrose-36/Heart)
 
 </div>
@@ -142,8 +144,8 @@ while (coding) {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF2D95)](https://www.linkedin.com/in/zoha-tariq-266a8540b/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF2D95)](https://github.com/blackrose-36)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9D4EDD)](https://www.linkedin.com/in/zoha-tariq-266a8540b/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C77DFF)](https://github.com/blackrose-36)
 [![Discord](https://img.shields.io/badge/Discord-blackrosex__36-0D1117?style=for-the-badge&logo=discord&logoColor=FF2D95)](https://discord.com/)
 
 </div>
@@ -154,10 +156,10 @@ while (coding) {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=blackrose-36&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D95&icon_color=FF2D95" alt="Zoha's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blackrose-36&theme=radical&hide_border=true&background=0D1117&ring=FF2D95&fire=FF2D95" alt="Zoha's GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=blackrose-36&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=FF2D95&text_color=E0AAFF" alt="Zoha's GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blackrose-36&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=FF2D95&currStreakLabel=C77DFF" alt="Zoha's GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrose-36&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D95" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrose-36&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" alt="Top Languages" />
 
 </div>
 
@@ -168,5 +170,7 @@ while (coding) {
 `git commit -m "another step forward"` 🚀🍬
 
 **BLACKROSE36** — `Code × Curiosity × Creativity × Candy`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
