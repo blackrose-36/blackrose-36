@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%20blackRose%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Zoha+%9F%91%8B;C%2B%2B+Developer+%E2%80%A2+Python+Learner;Building+the+Web%2C+One+Bug+at+a+Time;Consistency+beats+perfection." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Zoha%9F%91%8B;C%2B%2B+Developer+%E2%80%A2+Python+Learner;Building+the+Web%2C+One+Bug+at+a+Time;Consistency+beats+perfection." alt="Typing SVG" />
 
 <sub>Static fallback: <code>C++ Developer • Python Learner • Future Web Developer</code></sub>
 
