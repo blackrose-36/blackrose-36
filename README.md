@@ -1,7 +1,7 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/blackrose-36/blackrose-36/main/blackrose-header.svg" width="100%" alt="blackrose - Zoha Tariq"/>
+<img src="https://raw.githubusercontent.com/blackrose-36/blackrose-36/main/blackrose-header.svg" width="100%" alt="blackrose - Zohaa Tariq"/>
 
 <a href="https://github.com/blackrose-36">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=60&lines=Hi+there%2C+I%27m+Zoha+%F0%9F%91%8B;I+turn+coffee+%E2%98%95+and+curiosity+into+code;C+%7C+C%2B%2B+%7C+OOP+%7C+Python+%7C+HTML+%7C+CSS;Consistency+beats+perfection+%F0%9F%92%97" alt="Typing SVG" />
